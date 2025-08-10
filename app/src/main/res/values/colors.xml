@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#FF7843E6</color>
+    <color name="pink">#FFF72585</color>
+    <color name="aqua">#FF3A86FF</color>
+    <color name="green">#FF06D6A0</color>
+    <color name="danger">#FFEF233C</color>
+    <color name="light_gray">#FFF2F2F2</color>
+    <color name="black">#FF000000</color>
+    <color name="dark_text">#FF333333</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="outline">#FFCCCCCC</color>
+    <color name="primary">#FF7843E6</color>
+    <color name="secondary">#FFF72585</color>
+
+</resources>
